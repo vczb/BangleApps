@@ -1,0 +1,15 @@
+{
+  "id": "pcconn",
+  "name": "PC Connect",
+  "shortName": "PC Conn",
+  "version": "0.01",
+  "description": "Connect with yout PC",
+  "icon": "app.png",
+  "tags": "",
+  "supports": ["BANGLEJS2"],
+  "readme": "README.md",
+  "storage": [
+    {"name":"pcconn.app.js","url":"app.js"},
+    {"name":"pcconn.img","url":"app-icon.js","evaluate":true}
+  ]
+}
